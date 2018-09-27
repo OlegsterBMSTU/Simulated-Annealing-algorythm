@@ -1,0 +1,467 @@
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112.000000, Temperature= 30.000000
+ working.energy= 870.000000, current.energy= 758.000000
+calc= 0.023913  test= 0.727000
+
+0
+Delta= 112
